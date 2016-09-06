@@ -16,10 +16,10 @@ permissions and limitations under the License. See accompanying
 LICENSE file.
 -->
 
-Riak KV Client for Yahoo! Cloud System Benchmark (YCSB)
+Riak KV Client for Yahoo! Cloud Serving Benchmark (YCSB)
 =======================================================
 
-The Riak KV YCSB client is designed to work with the Yahoo! Cloud System Benchmark (YCSB) project (https://github.com/brianfrankcooper/YCSB) to support performance testing for the 2.x.y line of the Riak KV database.
+The Riak KV YCSB client is designed to work with the Yahoo! Cloud Serving Benchmark (YCSB) project (https://github.com/brianfrankcooper/YCSB) to support performance testing for the 2.x.y line of the Riak KV database.
 
 Creating a <i>bucket-type</i> to use with YCSB
 ----------------------------
